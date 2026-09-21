@@ -2,7 +2,7 @@
 
 **Data Analytics Engineer** based in Lahore, Pakistan. I build Power BI reporting, Microsoft Fabric data platforms and Azure data pipelines that turn raw data into decisions people can act on.
 
-[Portfolio](https://hammadakram.vercel.app) | [LinkedIn](https://www.linkedin.com/in/hammadakram0/) | [Substack](https://hammadak.substack.com/)
+[Portfolio](https://hammadakram.vercel.app) | [LinkedIn](https://www.linkedin.com/in/hammadakram0/) | [Substack](https://substack.com/@hammadakrm)
 
 ---
 
@@ -38,4 +38,4 @@
 
 ## Get in touch
 
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/hammadakram0/). I write about data and analytics on [Substack](https://hammadak.substack.com/).
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/hammadakram0/). I write about data and analytics on [Substack](https://substack.com/@hammadakrm).

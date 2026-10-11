@@ -1,6 +1,6 @@
 # Hi, I'm Hammad
 
-**Data Analytics Engineer** based in Lahore, Pakistan. I build Power BI reporting, Microsoft Fabric data platforms and Azure data pipelines that turn raw data into decisions people can act on.
+**Data Analytics Engineer** based in Pakistan. I build Power BI reporting, Microsoft Fabric data platforms and Azure data pipelines that turn raw data into decisions people can act on.
 
 [Portfolio](https://hammadakram.vercel.app) | [LinkedIn](https://www.linkedin.com/in/hammadakram0/) | [Substack](https://substack.com/@hammadakrm)
 
